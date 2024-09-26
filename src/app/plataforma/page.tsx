@@ -1,9 +1,9 @@
-import { ImprovedComponentWithFixes } from "@/components/improved-component-with-fixes";
+import { Interfaz } from "@/components/Interfaz";
 
 
 function Page() {
   return (
-    <ImprovedComponentWithFixes/>
+    <Interfaz/>
   );
 }
 export default Page;

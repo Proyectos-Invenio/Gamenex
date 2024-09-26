@@ -112,7 +112,7 @@ const Carousel = ({ items, title }: { items: GameItem[]; title: string }) => {
   )
 }
 
-export function ImprovedComponentWithFixes() {
+export function Interfaz() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [isNewPostModalOpen, setIsNewPostModalOpen] = useState(false)
   const [postContent, setPostContent] = useState("")
